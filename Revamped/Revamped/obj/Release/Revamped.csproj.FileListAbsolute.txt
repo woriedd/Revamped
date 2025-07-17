@@ -1,0 +1,42 @@
+C:\Users\Justin\source\repos\Revamped\Revamped\bin\Release\BO2RemoteRecovery.xex
+C:\Users\Justin\source\repos\Revamped\Revamped\bin\Release\Revamped.exe.config
+C:\Users\Justin\source\repos\Revamped\Revamped\bin\Release\Revamped.exe
+C:\Users\Justin\source\repos\Revamped\Revamped\bin\Release\Revamped.pdb
+C:\Users\Justin\source\repos\Revamped\Revamped\bin\Release\JRPC.dll
+C:\Users\Justin\source\repos\Revamped\Revamped\bin\Release\Newtonsoft.Json.dll
+C:\Users\Justin\source\repos\Revamped\Revamped\bin\Release\xdevkit.dll
+C:\Users\Justin\source\repos\Revamped\Revamped\bin\Release\Newtonsoft.Json.xml
+C:\Users\Justin\source\repos\Revamped\Revamped\obj\Release\Revamped.csproj.AssemblyReference.cache
+C:\Users\Justin\source\repos\Revamped\Revamped\obj\Release\Revamped.Form1.resources
+C:\Users\Justin\source\repos\Revamped\Revamped\obj\Release\Revamped.Properties.Resources.resources
+C:\Users\Justin\source\repos\Revamped\Revamped\obj\Release\Revamped.csproj.GenerateResource.cache
+C:\Users\Justin\source\repos\Revamped\Revamped\obj\Release\Revamped.csproj.CoreCompileInputs.cache
+C:\Users\Justin\source\repos\Revamped\Revamped\obj\Release\Revamped.csproj.CopyComplete
+C:\Users\Justin\source\repos\Revamped\Revamped\obj\Release\Revamped.exe
+C:\Users\Justin\source\repos\Revamped\Revamped\obj\Release\Revamped.pdb
+C:\Users\J\Desktop\RGH\Tool Projects\Revamped\Revamped\bin\Release\BO2RemoteRecovery.xex
+C:\Users\J\Desktop\RGH\Tool Projects\Revamped\Revamped\bin\Release\Revamped.exe.config
+C:\Users\J\Desktop\RGH\Tool Projects\Revamped\Revamped\bin\Release\Revamped.exe
+C:\Users\J\Desktop\RGH\Tool Projects\Revamped\Revamped\bin\Release\Revamped.pdb
+C:\Users\J\Desktop\RGH\Tool Projects\Revamped\Revamped\bin\Release\JRPC.dll
+C:\Users\J\Desktop\RGH\Tool Projects\Revamped\Revamped\bin\Release\Newtonsoft.Json.dll
+C:\Users\J\Desktop\RGH\Tool Projects\Revamped\Revamped\bin\Release\xdevkit.dll
+C:\Users\J\Desktop\RGH\Tool Projects\Revamped\Revamped\bin\Release\Newtonsoft.Json.xml
+C:\Users\J\Desktop\RGH\Tool Projects\Revamped\Revamped\obj\Release\Revamped.csproj.AssemblyReference.cache
+C:\Users\J\Desktop\RGH\Tool Projects\Revamped\Revamped\obj\Release\Revamped.Form1.resources
+C:\Users\J\Desktop\RGH\Tool Projects\Revamped\Revamped\obj\Release\Revamped.Properties.Resources.resources
+C:\Users\J\Desktop\RGH\Tool Projects\Revamped\Revamped\obj\Release\Revamped.csproj.GenerateResource.cache
+C:\Users\J\Desktop\RGH\Tool Projects\Revamped\Revamped\obj\Release\Revamped.csproj.CoreCompileInputs.cache
+C:\Users\J\Desktop\RGH\Tool Projects\Revamped\Revamped\obj\Release\Revamped.csproj.CopyComplete
+C:\Users\J\Desktop\RGH\Tool Projects\Revamped\Revamped\obj\Release\Revamped.exe
+C:\Users\J\Desktop\RGH\Tool Projects\Revamped\Revamped\obj\Release\Revamped.pdb
+C:\Users\J\Desktop\RGH\Tool Projects\Revamped\Revamped\bin\Release\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\J\Desktop\RGH\Tool Projects\Revamped\Revamped\bin\Release\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\J\Desktop\RGH\Tool Projects\Revamped\Revamped\bin\Release\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\J\Desktop\RGH\Tool Projects\Revamped\Revamped\bin\Release\DevExpress.Data.v22.2.xml
+C:\Users\J\Desktop\RGH\Tool Projects\Revamped\Revamped\bin\Release\DevExpress.Printing.v22.2.Core.xml
+C:\Users\J\Desktop\RGH\Tool Projects\Revamped\Revamped\bin\Release\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\J\Desktop\RGH\Tool Projects\Revamped\Revamped\bin\Release\DevExpress.Utils.v22.2.xml
+C:\Users\J\Desktop\RGH\Tool Projects\Revamped\Revamped\bin\Release\DevExpress.XtraEditors.v22.2.xml
+C:\Users\J\Desktop\RGH\Tool Projects\Revamped\Revamped\bin\Release\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\J\Desktop\RGH\Tool Projects\Revamped\Revamped\bin\Release\DevExpress.Pdf.v22.2.Drawing.xml

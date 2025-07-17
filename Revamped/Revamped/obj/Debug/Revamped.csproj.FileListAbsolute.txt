@@ -1,0 +1,17 @@
+C:\Users\Justin\source\repos\Revamped\Revamped\obj\Debug\Revamped.csproj.AssemblyReference.cache
+C:\Users\Justin\source\repos\Revamped\Revamped\obj\Debug\Revamped.Form1.resources
+C:\Users\Justin\source\repos\Revamped\Revamped\obj\Debug\Revamped.Properties.Resources.resources
+C:\Users\Justin\source\repos\Revamped\Revamped\obj\Debug\Revamped.csproj.GenerateResource.cache
+C:\Users\Justin\source\repos\Revamped\Revamped\obj\Debug\Revamped.csproj.CoreCompileInputs.cache
+C:\Users\Justin\source\repos\Revamped\Revamped\bin\Debug\Revamped.exe.config
+C:\Users\Justin\source\repos\Revamped\Revamped\bin\Debug\Revamped.exe
+C:\Users\Justin\source\repos\Revamped\Revamped\bin\Debug\Revamped.pdb
+C:\Users\Justin\source\repos\Revamped\Revamped\bin\Debug\JRPC.dll
+C:\Users\Justin\source\repos\Revamped\Revamped\obj\Debug\Revamped.csproj.CopyComplete
+C:\Users\Justin\source\repos\Revamped\Revamped\obj\Debug\Revamped.exe
+C:\Users\Justin\source\repos\Revamped\Revamped\obj\Debug\Revamped.pdb
+C:\Users\Justin\source\repos\Revamped\Revamped\bin\Debug\xdevkit.dll
+C:\Users\Justin\source\repos\Revamped\Revamped\bin\Debug\BO2RemoteRecovery.xex
+C:\Users\Justin\source\repos\Revamped\Revamped\bin\Debug\Serenity\Core.cs
+C:\Users\Justin\source\repos\Revamped\Revamped\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Justin\source\repos\Revamped\Revamped\bin\Debug\Newtonsoft.Json.xml
